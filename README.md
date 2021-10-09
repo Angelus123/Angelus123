@@ -1,6 +1,6 @@
 # Hello 👋, I'm Felix :)
 ##  About Me
-## I am a software engineer, majoring in Computer Software Engineering. My technology stack involves Node.js, React, MongoDB, MySQL, PHP, C, C++, Python, Java, Javascript, Rust, Solana, and Solidity. My project avenues comprise of  Web Development, Blockchain Technology, and Data Structures and Algorithms.
+I am a software engineer, majoring in Computer Software Engineering. My technology stack involves Node.js, React, MongoDB, MySQL, PHP, C, C++, Python, Java, Javascript, Rust, Solana, and Solidity. My project avenues comprise of  Web Development, Blockchain Technology, and Data Structures and Algorithms.
 
 ### Skills
 <a href="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" rel="nofollow"><img alt="Nodejs" src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"> </a>
