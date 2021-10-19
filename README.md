@@ -1,4 +1,4 @@
-# Hello 👋, I'm Felix :)
+# Hello 👋, I'm Felix 
 ##  About Me
 I am a software engineer, majoring in Computer Software Engineering. My technology stack involves Node.js, React, MongoDB, MySQL, PHP, C, C++, Python, Java, Javascript, Rust, Solana, and Solidity. My project avenues comprise of  Web Development, Blockchain Technology, and Data Structures and Algorithms.
 
