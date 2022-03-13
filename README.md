@@ -126,8 +126,4 @@ I am a software engineer, majoring in Computer Software Engineering. My technolo
 
 ## My Stats :chart_with_upwards_trend:
 
-![](https://github.com/Angelus123/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Angelus123/github-stats/blob/master/generated/languages.svg)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelus123&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelus123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
