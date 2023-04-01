@@ -95,11 +95,6 @@ I am a software engineer, majoring in Computer Software Engineering. My technolo
 <a href="https://keras.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
 </a>
-<a href="https://pandas.pydata.org" target="_blank">
-<img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="40" height="40"/>
-</a>
-
-
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
 </a>
@@ -108,9 +103,6 @@ I am a software engineer, majoring in Computer Software Engineering. My technolo
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-<a href="https://docs.microsoft.com/en-us/azure/cosmos-db/introduction" target="_blank">
-<img src="https://sqlplayer.net/wp-content/uploads/2020/01/azure-cosmos-db.png" alt="Cosmos DB" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
 <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-71fcy541.png" alt="DynamoDB" width="40" height="40"/>
